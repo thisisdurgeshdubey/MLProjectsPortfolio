@@ -15,7 +15,13 @@ with avg spend of £436K and 1,998 At-Risk customers needing win-back campaigns.
 
 
 
-## Project 2 — Demand Forecasting (coming soon)
+## Project 2 — Demand Forecasting / Time Series Modeling
+**Tools:** Python, pandas, Prophet, matplotlib, sklearn
+
+Forecasted 30-day daily revenue using Facebook Prophet on 604 days of retail data.
+Discovered Thursday peak pattern and November seasonal spike. MAE: £12,336 on avg daily revenue of £43,472.
+
+[View Notebook](./Project2_Demand_Forecasting.ipynb)
 ## Project 3 — NLP Sentiment Analysis (coming soon)
 ## Project 4 — A/B Testing & Uplift Modeling (coming soon)
 ## Project 5 — End-to-End ML Deployment (coming soon)
