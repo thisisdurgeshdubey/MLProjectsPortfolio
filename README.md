@@ -36,5 +36,15 @@ pet food quality, beverage flavor complaints.
 
 
 
-## Project 4 — A/B Testing & Uplift Modeling (coming soon)
+## Project 4 — A/B Testing & Experimentation Analysis
+**Tools:** Python, pandas, scipy, statsmodels, matplotlib
+
+Analyzed a 294,478-user e-commerce A/B test using two-proportion z-test.
+Found new landing page had NO statistically significant uplift (p=0.2161).
+Recommended against rollout saving potential development costs.
+
+[View Notebook](./Project4_AB_Testing.ipynb)
+
+
+
 ## Project 5 — End-to-End ML Deployment (coming soon)
