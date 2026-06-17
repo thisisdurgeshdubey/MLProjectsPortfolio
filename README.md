@@ -22,6 +22,13 @@ Forecasted 30-day daily revenue using Facebook Prophet on 604 days of retail dat
 Discovered Thursday peak pattern and November seasonal spike. MAE: £12,336 on avg daily revenue of £43,472.
 
 [View Notebook](./Project2_Demand_Forecasting.ipynb)
-## Project 3 — NLP Sentiment Analysis (coming soon)
+## Project 3 — NLP-Based Insights from Customer Reviews
+**Tools:** Python, pandas, NLTK, VADER, LDA, WordCloud, matplotlib
+
+Analyzed 50,000 Amazon food reviews using VADER sentiment analysis (79.1% accuracy).
+Extracted 5 complaint themes using LDA topic modeling — delivery issues, 
+pet food quality, beverage flavor complaints.
+
+[View Notebook](./Project3_NLP_Sentiment_Analysis.ipynb)
 ## Project 4 — A/B Testing & Uplift Modeling (coming soon)
 ## Project 5 — End-to-End ML Deployment (coming soon)
