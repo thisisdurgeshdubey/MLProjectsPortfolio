@@ -47,4 +47,12 @@ Recommended against rollout saving potential development costs.
 
 
 
-## Project 5 — End-to-End ML Deployment (coming soon)
+## Project 5 — Customer Churn Prediction & Deployment
+**Tools:** Python, pandas, scikit-learn, XGBoost, Streamlit
+
+Predicted customer churn for 7,043 telecom customers using Logistic Regression, 
+Random Forest, and XGBoost. Logistic Regression performed best (AUC: 0.8306, 
+Accuracy: 78.54%), outperforming both ensemble models. Deployed as a live 
+interactive web app on Streamlit Cloud for real-time churn predictions.
+
+[View Notebook](./Project5_Churn_Prediction.ipynb) | [View App Repo](https://github.com/thisisdurgeshdubey/churn-prediction-app) | [Live App](https://churn-prediction-app-dvtp4qd4escmiazbfqpqse.streamlit.app/)
